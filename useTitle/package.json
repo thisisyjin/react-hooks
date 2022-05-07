@@ -1,0 +1,25 @@
+{
+  "name": "@react-hooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's style",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisyjin/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "thisisyjin2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thisisyjin/react-hooks/issues"
+  },
+  "homepage": "https://github.com/thisisyjin/react-hooks#readme",
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
